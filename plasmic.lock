@@ -7,11 +7,6 @@
       "lang": "ts",
       "fileLocks": [
         {
-          "assetId": "6xqwZRggHmQCLAmEZ3ZijY",
-          "type": "projectCss",
-          "checksum": "11882c75b623571f76c7e1893a3589ac"
-        },
-        {
           "type": "renderModule",
           "assetId": "gvs6wyL_wDKG",
           "checksum": "012399463c908d5a7011562bd707121b"
@@ -25,6 +20,11 @@
           "type": "image",
           "assetId": "qwcfi8qJQBYL",
           "checksum": "a948c4e616c1692cc754b8aa09adec13"
+        },
+        {
+          "assetId": "6xqwZRggHmQCLAmEZ3ZijY",
+          "type": "projectCss",
+          "checksum": "11882c75b623571f76c7e1893a3589ac"
         }
       ],
       "codegenVersion": "0.0.1"
